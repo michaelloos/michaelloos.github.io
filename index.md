@@ -4,7 +4,6 @@ You can use the [editor on GitHub](https://github.com/michaelloos/michaelloos.gi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-## Experience
 
 ## Competencies
 
@@ -61,8 +60,27 @@ Syntax highlighted code block
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
+## Experience
+First National Bank of Omaha logo
+### Senior Credit Risk Analyst, FNBO Nov 2017 - Present
+-Responsible for developing and maintaining acquisition credit risk policies and strategies for Consumer and Small Business Credit Card and Individual Segment.
+-Independently initiate, conduct, and manage complex credit risk projects, including project design, data collection, analysis, summarization, presentation of results, and implementation.
+-Monitor and evaluate performance of existing credit risk strategies and develop new strategies by analyzing and evaluating data and utilizing various techniques and tools.
+-Work with cross functional areas to ensure successful implementation of new and modified strategies.Responsible for developing and maintaining acquisition credit risk policies and strategies for Consumer and Small Business Credit Card and Individual Segment. -
+
+### Credit Risk Analyst, FNBO May 2015 - Nov 2017
+
+### Credit Risk Intern 
+
+
+- George Washington
+- John Adams
+- Thomas Jefferson
+
 
 ### Contact
 
 Michael Loos\
 loos.mickey@gmail.com
+Github: 
+LinkedIn: 
