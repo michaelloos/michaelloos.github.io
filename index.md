@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## Competencies
 
-## Work/Projects
+## Projects
 
 ### 2007 CFB Season Analysis
 The 2007 college football season was filled with upsets and nontraditional teams high in the rankings. This project uses Python and multiple data sources to wrangle and analyze data to find insights on the 2007 season. Data sources include a CSV file, website/HTML, and accessing data through an API. 
