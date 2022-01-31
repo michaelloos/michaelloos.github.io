@@ -62,7 +62,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 ## Experience
 ### Senior Credit Risk Analyst, FNBO
-    Nov 2017 - Present
+##### Nov 2017 - Present
 - Responsible for developing and maintaining acquisition credit risk policies and strategies for Consumer and Small Business Credit Card and Individual Segment.
 - Independently initiate, conduct, and manage complex credit risk projects, including project design, data collection, analysis, summarization, presentation of results, and implementation.
 - Monitor and evaluate performance of existing credit risk strategies and develop new strategies by analyzing and evaluating data and utilizing various techniques and tools.
@@ -80,4 +80,4 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 Michael Loos\
 loos.mickey@gmail.com \
 [GitHub](https://github.com/michaelloos) \
-[LinkedIn] (www.linkedin.com/in/michael-loos-49106750)
+[LinkedIn](www.linkedin.com/in/michael-loos-49106750)
