@@ -64,6 +64,5 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 ### Contact
 
-Michael Loos
-
+Michael Loos\
 loos.mickey@gmail.com
