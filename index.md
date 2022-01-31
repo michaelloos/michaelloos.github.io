@@ -63,19 +63,14 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 ## Experience
 First National Bank of Omaha logo
 ### Senior Credit Risk Analyst, FNBO Nov 2017 - Present
--Responsible for developing and maintaining acquisition credit risk policies and strategies for Consumer and Small Business Credit Card and Individual Segment.
--Independently initiate, conduct, and manage complex credit risk projects, including project design, data collection, analysis, summarization, presentation of results, and implementation.
--Monitor and evaluate performance of existing credit risk strategies and develop new strategies by analyzing and evaluating data and utilizing various techniques and tools.
--Work with cross functional areas to ensure successful implementation of new and modified strategies.Responsible for developing and maintaining acquisition credit risk policies and strategies for Consumer and Small Business Credit Card and Individual Segment. -
+- Responsible for developing and maintaining acquisition credit risk policies and strategies for Consumer and Small Business Credit Card and Individual Segment.
+- Independently initiate, conduct, and manage complex credit risk projects, including project design, data collection, analysis, summarization, presentation of results, and implementation.
+- Monitor and evaluate performance of existing credit risk strategies and develop new strategies by analyzing and evaluating data and utilizing various techniques and tools.
+- Work with cross functional areas to ensure successful implementation of new and modified strategies.Responsible for developing and maintaining acquisition credit risk policies and strategies for Consumer and Small Business Credit Card and Individual Segment. -
 
 ### Credit Risk Analyst, FNBO May 2015 - Nov 2017
 
 ### Credit Risk Intern 
-
-
-- George Washington
-- John Adams
-- Thomas Jefferson
 
 
 ### Contact
