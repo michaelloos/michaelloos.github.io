@@ -6,6 +6,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 ## Competencies
+- Python
+- R
+- SAS
 
 ## Projects
 
@@ -80,4 +83,4 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 Michael Loos\
 loos.mickey@gmail.com \
 [GitHub](https://github.com/michaelloos/portfolio) \
-[LinkedIn](www.linkedin.com/in/michael-loos-49106750)
+[LinkedIn](https://linkedin.com/in/michael-loos-49106750)
