@@ -50,7 +50,7 @@ TBD
 ### Credit Risk Analyst, FNBO 
   **May 2015 - Nov 2017**
 
-### Credit Risk Intern 
+### Credit Risk Intern, FNBO
   **Sept 2014 - May 2015**
 
 
