@@ -84,3 +84,4 @@ Michael Loos\
 loos.mickey@gmail.com \
 [GitHub](https://github.com/michaelloos/portfolio) \
 [LinkedIn](https://linkedin.com/in/michael-loos-49106750)
+[LinkedIn](https://www.linkedin.com/in/michael-loos-49106750)
