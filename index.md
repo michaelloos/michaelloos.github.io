@@ -8,10 +8,10 @@
 
 ## Projects
 
-### 2007 CFB Season Analysis
+[### 2007 CFB Season Analysis] (https://github.com/michaelloos/Portfolio/tree/main/2007%20CFB%20Season) 
 The 2007 college football season was filled with upsets and nontraditional teams high in the rankings. This project uses Python and multiple data sources to wrangle and analyze data to find insights on the 2007 season. Data sources include a CSV file, website/HTML, and accessing data through an API. 
 
-### API Weather Forecast
+[### API Weather Forecast] (https://github.com/michaelloos/Portfolio/tree/main/API%20Weather%20Forecast) 
 A simple Python program using openweathermap.org API to generate current weather conditions and forecast for a zip code or city. Users are prompted for a zip code or city. A query string is created and passed to request JSON data for current conditions and the 5 day/3 hour forecast in a user friendly display.
 
 ### CFB Betting Model
