@@ -5,6 +5,7 @@
 - Python
 - R
 - SAS
+- Excel
 
 ## Projects
 
