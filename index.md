@@ -34,11 +34,10 @@ Exploratory Data Analysis done to determine what attributes make a good movie. D
 Project using Python to gather images and classify college football related images by team within the Big Ten Conference. Convolutional Neural Networks are used to analyze the images.
 
 ### [Salary Prediction Model]()
-TBD
+Project using Python and R to analyze a Kaggle survey data set to derive insights and predict salaries for positions within the Data Science industry based on role descriptions and survey respondant characteristics. 
 
 ### [College Football Ranking Model]()
-TBD
-
+This project uses Python to create a model to rank college football teams based on game results, strength of schedule, and other team attributes. 
 
 ## Experience
 ### Senior Credit Risk Analyst, FNBO
