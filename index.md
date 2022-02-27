@@ -14,7 +14,7 @@ The 2007 college football season was filled with upsets and nontraditional teams
 [### API Weather Forecast] (https://github.com/michaelloos/Portfolio/tree/main/API%20Weather%20Forecast) 
 A simple Python program using openweathermap.org API to generate current weather conditions and forecast for a zip code or city. Users are prompted for a zip code or city. A query string is created and passed to request JSON data for current conditions and the 5 day/3 hour forecast in a user friendly display.
 
-### CFB Betting Model
+[### CFB Betting Model] (https://github.com/michaelloos/Portfolio/tree/main/CFB%20Betting%20Model) 
 Project using Python to gather, clean, and structure data from the 2019 college football season and model a neural network. R was used for Exploratory Data Analysis and to create different logistic and linear models to predict the outcomes of games, straight up and against the spread.
 
 ### Credit Card Fraud Detection Model
