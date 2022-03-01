@@ -30,10 +30,10 @@ This project contains several different types of projects and visualizations to 
 ### [What Makes a Good Movie-EDA](https://github.com/michaelloos/Portfolio/tree/main/What%20Makes%20a%20Good%20Movie)
 Exploratory Data Analysis done to determine what attributes make a good movie. Data contains 81,273 movies from IMDB. Analysis focuses on Year, Duration, Average Vote, Votes, Budget, US Gross Income, and Meta Score.
 
-### [Image Classification-Big Ten Teams]()
+### [Image Classification-Big Ten Teams](https://github.com/michaelloos/Portfolio/tree/main/Image%20Classification-Big%20Ten%20Teams)
 Project using Python to gather images and classify college football related images by team within the Big Ten Conference. Convolutional Neural Networks are used to analyze the images.
 
-### [Salary Prediction Model]()
+### [Salary Prediction Model](https://github.com/michaelloos/Portfolio/tree/main/Salary%20Prediction)
 Project using Python and R to analyze a Kaggle survey data set to derive insights and predict salaries for positions within the Data Science industry based on role descriptions and survey respondant characteristics. 
 
 ### [College Football Ranking Model]()
