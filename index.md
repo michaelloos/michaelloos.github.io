@@ -5,6 +5,7 @@ I am currently working as a Senior Credit Risk Analyst at First National Bank of
 - Python
 - R
 - SAS
+- SQL
 - Excel
 
 ## Projects
