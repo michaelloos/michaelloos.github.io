@@ -37,7 +37,7 @@ Project using Python to gather images and classify college football related imag
 ### [Salary Prediction Model](https://github.com/michaelloos/Portfolio/tree/main/Salary%20Prediction)
 Project using Python and R to analyze a Kaggle survey data set to derive insights and predict salaries for positions within the Data Science industry based on role descriptions and survey respondant characteristics. 
 
-### [College Football Ranking Model]()
+### [College Football Ranking Model](https://github.com/michaelloos/Portfolio/tree/main/College%20Football%20Ranking%20Model)
 This project uses Python to create a model to rank college football teams based on game results, strength of schedule, and other team attributes. 
 
 ## Experience
