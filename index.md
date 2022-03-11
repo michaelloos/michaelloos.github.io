@@ -2,11 +2,12 @@
 I am currently working as a Senior Credit Risk Analyst at First National Bank of Omaha. I recently graduated with a Master's Degree in Data Science from Bellevue University. My undergraduate degree is in Mathematics from the University of Nebraska-Omaha. 
 
 ## Competencies
+- Excel
+- SAS
 - Python
 - R
-- SAS
 - SQL
-- Excel
+- Tableau
 
 ## Projects
 
